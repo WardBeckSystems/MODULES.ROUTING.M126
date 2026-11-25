@@ -1,5 +1,5 @@
 # 19xx - M126 - WBSPS - Ward Beck Module - M126 Transformer Card.jpg
-Wiki page: [M126](../../../PAGES/M126.md)
+Wiki page: [M126](../../../../PAGES/M126.md)
 
 
 - **Year:** unknown (unknown)
@@ -34,7 +34,7 @@ O-
 
 ```json
 {
- "file": "Modules/ROUTING/M126/19xx - M126 - WBSPS - Ward Beck Module - M126 Transformer Card.jpg",
+ "file": "Modules/ROUTING/M126/PHOTOS/19xx - M126 - WBSPS - Ward Beck Module - M126 Transformer Card.jpg",
  "sha256": "16484cd2143dda63801047dc98c992a0dc37f3187c77898102a24e1ecab91aa2",
  "kind": "module",
  "models": [

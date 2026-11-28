@@ -1,6 +1,6 @@
 # M126 Transformer Card · Routing
 
-Ward-Beck Systems M126. Wiki page: [M126 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M126.html)
+Ward-Beck Systems M126. Wiki page: [M126 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M126-Transformer-Card/)
 
 | Folder | What is in it | Files |
 |---|---|---|

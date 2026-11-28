@@ -1,5 +1,5 @@
 # 19xx - M126 - WBSPS - Ward Beck Module - M126 Transformer Card 001.jpg
-Wiki page: [M126](../../../../PAGES/M126.md)
+Wiki page: [M126](../)
 
 
 - **Year:** unknown (unknown)
